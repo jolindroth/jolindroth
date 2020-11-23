@@ -4,6 +4,7 @@
 **jolindroth/jolindroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://www.webfx.com/tools/emoji-cheat-sheet/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://twitter.com/jolindroth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @jolindroth</a>
